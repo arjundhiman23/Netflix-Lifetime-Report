@@ -1,0 +1,1 @@
+The primary goal is to breakdown the lifetime uploads of movies and shows on Netflix, and understand how they have performed in various regions. We can perform other various analytics on the well made interactive dashboard. The CSV files used for this analysis is pulled from kaggle. 
